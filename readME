@@ -1,0 +1,16 @@
+How We Planned to Do It:
+1.	Content Creation:
+o	Researched accurate and kid-friendly information about planets, the sun, moons, and other celestial bodies.
+o	Designed each page with a focus on one topic at a time (e.g., one planet per page).
+2.	AR Development:
+o	Used BlippAR (or any AR platform) to create and link 3D models and animations to specific images or markers in the book.
+o	Uploaded 3D models of planets and added animations like rotation, orbiting, scaling, etc.
+3.	Designing the Book:
+o	Created a colorful, visually attractive layout for the book using tools like Canva, Photoshop, or Illustrator.
+o	Placed AR trigger images or icons on each page to indicate where the user should scan.
+4.	Testing and Optimization:
+o	Tested the book using a smartphone or tablet with the AR app.
+o	Made sure the AR experience was smooth, fast-loading, and accurate in terms of content and interaction.
+5.	Feedback and Improvement:
+o	Collected feedback from children, teachers, and parents.
+o	Used that feedback to improve the visuals, language, and interactivity.
